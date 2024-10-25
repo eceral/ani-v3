@@ -5,6 +5,12 @@
             "address": "https://ani.sidestore.io"
         },
         {
+            "name": "Sidestore Ani V3 Custom",
+            "address": "https://ani-v3.onrender.com"
+        }
+    ]
+}
+        {
             "name": "SideStore (.zip)",
             "address": "https://ani.sidestore.zip"
         },
